@@ -1,0 +1,159 @@
+The country of Afghanistan has capital in Kabul with a population of 27657145 on an area of 652230 km2
+The country of Åland Islands has capital in Mariehamn with a population of 28875 on an area of 1580 km2
+The country of Albania has capital in Tirana with a population of 2886026 on an area of 28748 km2
+The country of Algeria has capital in Algiers with a population of 40400000 on an area of 2381741 km2
+The country of American Samoa has capital in Pago Pago with a population of 57100 on an area of 199 km2
+The country of Andorra has capital in Andorra la Vella with a population of 78014 on an area of 468 km2
+The country of Angola has capital in Luanda with a population of 25868000 on an area of 1246700 km2
+The country of Anguilla has capital in The Valley with a population of 13452 on an area of 91 km2
+The country of Antigua and Barbuda has capital in Saint John's with a population of 86295 on an area of 442 km2
+The country of Argentina has capital in Buenos Aires with a population of 43590400 on an area of 2780400 km2
+The country of Armenia has capital in Yerevan with a population of 2994400 on an area of 29743 km2
+The country of Aruba has capital in Oranjestad with a population of 107394 on an area of 180 km2
+The country of Australia has capital in Canberra with a population of 24117360 on an area of 7692024 km2
+The country of Austria has capital in Vienna with a population of 8725931 on an area of 83871 km2
+The country of Azerbaijan has capital in Baku with a population of 9730500 on an area of 86600 km2
+The country of Bahamas has capital in Nassau with a population of 378040 on an area of 13943 km2
+The country of Bahrain has capital in Manama with a population of 1404900 on an area of 765 km2
+The country of Bangladesh has capital in Dhaka with a population of 161006790 on an area of 147570 km2
+The country of Barbados has capital in Bridgetown with a population of 285000 on an area of 430 km2
+The country of Belarus has capital in Minsk with a population of 9498700 on an area of 207600 km2
+The country of Belgium has capital in Brussels with a population of 11319511 on an area of 30528 km2
+The country of Belize has capital in Belmopan with a population of 370300 on an area of 22966 km2
+The country of Benin has capital in Porto-Novo with a population of 10653654 on an area of 112622 km2
+The country of Bermuda has capital in Hamilton with a population of 61954 on an area of 54 km2
+The country of Bhutan has capital in Thimphu with a population of 775620 on an area of 38394 km2
+The country of Bolivia (Plurinational State of) has capital in Sucre with a population of 10985059 on an area of 1098581 km2
+The country of Bonaire, Sint Eustatius and Saba has capital in Kralendijk with a population of 17408 on an area of 294 km2
+The country of Bosnia and Herzegovina has capital in Sarajevo with a population of 3531159 on an area of 51209 km2
+The country of Botswana has capital in Gaborone with a population of 2141206 on an area of 582000 km2
+The country of Brazil has capital in Brasília with a population of 206135893 on an area of 8515767 km2
+The country of British Indian Ocean Territory has capital in Diego Garcia with a population of 3000 on an area of 60 km2
+The country of Virgin Islands (British) has capital in Road Town with a population of 28514 on an area of 151 km2
+The country of Virgin Islands (U.S.) has capital in Charlotte Amalie with a population of 114743 on an area of 346 km2
+The country of Brunei Darussalam has capital in Bandar Seri Begawan with a population of 411900 on an area of 5765 km2
+The country of Bulgaria has capital in Sofia with a population of 7153784 on an area of 110879 km2
+The country of Burkina Faso has capital in Ouagadougou with a population of 19034397 on an area of 272967 km2
+The country of Burundi has capital in Bujumbura with a population of 10114505 on an area of 27834 km2
+The country of Cambodia has capital in Phnom Penh with a population of 15626444 on an area of 181035 km2
+The country of Cameroon has capital in Yaoundé with a population of 22709892 on an area of 475442 km2
+The country of Canada has capital in Ottawa with a population of 36155487 on an area of 9984670 km2
+The country of Cabo Verde has capital in Praia with a population of 531239 on an area of 4033 km2
+The country of Cayman Islands has capital in George Town with a population of 58238 on an area of 264 km2
+The country of Central African Republic has capital in Bangui with a population of 4998000 on an area of 622984 km2
+The country of Chad has capital in N'Djamena with a population of 14497000 on an area of 1284000 km2
+The country of Chile has capital in Santiago with a population of 18191900 on an area of 756102 km2
+The country of China has capital in Beijing with a population of 1377422166 on an area of 9640011 km2
+The country of Christmas Island has capital in Flying Fish Cove with a population of 2072 on an area of 135 km2
+The country of Cocos (Keeling) Islands has capital in West Island with a population of 550 on an area of 14 km2
+The country of Colombia has capital in Bogotá with a population of 48759958 on an area of 1141748 km2
+The country of Comoros has capital in Moroni with a population of 806153 on an area of 1862 km2
+The country of Congo has capital in Brazzaville with a population of 4741000 on an area of 342000 km2
+The country of Congo (Democratic Republic of the) has capital in Kinshasa with a population of 85026000 on an area of 2344858 km2
+The country of Cook Islands has capital in Avarua with a population of 18100 on an area of 236 km2
+The country of Costa Rica has capital in San José with a population of 4890379 on an area of 51100 km2
+The country of Croatia has capital in Zagreb with a population of 4190669 on an area of 56594 km2
+The country of Cuba has capital in Havana with a population of 11239004 on an area of 109884 km2
+The country of Curaçao has capital in Willemstad with a population of 154843 on an area of 444 km2
+The country of Cyprus has capital in Nicosia with a population of 847000 on an area of 9251 km2
+The country of Czech Republic has capital in Prague with a population of 10558524 on an area of 78865 km2
+The country of Denmark has capital in Copenhagen with a population of 5717014 on an area of 43094 km2
+The country of Djibouti has capital in Djibouti with a population of 900000 on an area of 23200 km2
+The country of Dominica has capital in Roseau with a population of 71293 on an area of 751 km2
+The country of Dominican Republic has capital in Santo Domingo with a population of 10075045 on an area of 48671 km2
+The country of Ecuador has capital in Quito with a population of 16545799 on an area of 276841 km2
+The country of Egypt has capital in Cairo with a population of 91290000 on an area of 1002450 km2
+The country of El Salvador has capital in San Salvador with a population of 6520675 on an area of 21041 km2
+The country of Equatorial Guinea has capital in Malabo with a population of 1222442 on an area of 28051 km2
+The country of Eritrea has capital in Asmara with a population of 5352000 on an area of 117600 km2
+The country of Estonia has capital in Tallinn with a population of 1315944 on an area of 45227 km2
+The country of Ethiopia has capital in Addis Ababa with a population of 92206005 on an area of 1104300 km2
+The country of Falkland Islands (Malvinas) has capital in Stanley with a population of 2563 on an area of 12173 km2
+The country of Faroe Islands has capital in Tórshavn with a population of 49376 on an area of 1393 km2
+The country of Fiji has capital in Suva with a population of 867000 on an area of 18272 km2
+The country of Finland has capital in Helsinki with a population of 5491817 on an area of 338424 km2
+The country of France has capital in Paris with a population of 66710000 on an area of 640679 km2
+The country of French Polynesia has capital in Papeetē with a population of 271800 on an area of 4167 km2
+The country of French Southern Territories has capital in Port-aux-Français with a population of 140 on an area of 7747 km2
+The country of Gabon has capital in Libreville with a population of 1802278 on an area of 267668 km2
+The country of Gambia has capital in Banjul with a population of 1882450 on an area of 11295 km2
+The country of Georgia has capital in Tbilisi with a population of 3720400 on an area of 69700 km2
+The country of Germany has capital in Berlin with a population of 81770900 on an area of 357114 km2
+The country of Ghana has capital in Accra with a population of 27670174 on an area of 238533 km2
+The country of Gibraltar has capital in Gibraltar with a population of 33140 on an area of 6 km2
+The country of Greece has capital in Athens with a population of 10858018 on an area of 131990 km2
+The country of Greenland has capital in Nuuk with a population of 55847 on an area of 2166086 km2
+The country of Grenada has capital in St. George's with a population of 103328 on an area of 344 km2
+The country of Guam has capital in Hagåtña with a population of 184200 on an area of 549 km2
+The country of Guatemala has capital in Guatemala City with a population of 16176133 on an area of 108889 km2
+The country of Guernsey has capital in St. Peter Port with a population of 62999 on an area of 78 km2
+The country of Guinea has capital in Conakry with a population of 12947000 on an area of 245857 km2
+The country of Guinea-Bissau has capital in Bissau with a population of 1547777 on an area of 36125 km2
+The country of Guyana has capital in Georgetown with a population of 746900 on an area of 214969 km2
+The country of Haiti has capital in Port-au-Prince with a population of 11078033 on an area of 27750 km2
+The country of Holy See has capital in Rome with a population of 451 on an area of 1 km2
+The country of Honduras has capital in Tegucigalpa with a population of 8576532 on an area of 112492 km2
+The country of Hong Kong has capital in City of Victoria with a population of 7324300 on an area of 1104 km2
+The country of Hungary has capital in Budapest with a population of 9823000 on an area of 93028 km2
+The country of Iceland has capital in Reykjavík with a population of 334300 on an area of 103000 km2
+The country of India has capital in New Delhi with a population of 1295210000 on an area of 3287590 km2
+The country of Indonesia has capital in Jakarta with a population of 258705000 on an area of 1904569 km2
+The country of Côte d'Ivoire has capital in Yamoussoukro with a population of 22671331 on an area of 322463 km2
+The country of Iran (Islamic Republic of) has capital in Tehran with a population of 79369900 on an area of 1648195 km2
+The country of Iraq has capital in Baghdad with a population of 37883543 on an area of 438317 km2
+The country of Ireland has capital in Dublin with a population of 6378000 on an area of 70273 km2
+The country of Isle of Man has capital in Douglas with a population of 84497 on an area of 572 km2
+The country of Israel has capital in Jerusalem with a population of 8527400 on an area of 20770 km2
+The country of Italy has capital in Rome with a population of 60665551 on an area of 301336 km2
+The country of Jamaica has capital in Kingston with a population of 2723246 on an area of 10991 km2
+The country of Japan has capital in Tokyo with a population of 126960000 on an area of 377930 km2
+The country of Jersey has capital in Saint Helier with a population of 100800 on an area of 116 km2
+The country of Jordan has capital in Amman with a population of 9531712 on an area of 89342 km2
+The country of Kazakhstan has capital in Astana with a population of 17753200 on an area of 2724900 km2
+The country of Kenya has capital in Nairobi with a population of 47251000 on an area of 580367 km2
+The country of Kiribati has capital in South Tarawa with a population of 113400 on an area of 811 km2
+The country of Kuwait has capital in Kuwait City with a population of 4183658 on an area of 17818 km2
+The country of Kyrgyzstan has capital in Bishkek with a population of 6047800 on an area of 199951 km2
+The country of Lao People's Democratic Republic has capital in Vientiane with a population of 6492400 on an area of 236800 km2
+The country of Latvia has capital in Riga with a population of 1961600 on an area of 64559 km2
+The country of Lebanon has capital in Beirut with a population of 5988000 on an area of 10452 km2
+The country of Lesotho has capital in Maseru with a population of 1894194 on an area of 30355 km2
+The country of Liberia has capital in Monrovia with a population of 4615000 on an area of 111369 km2
+The country of Libya has capital in Tripoli with a population of 6385000 on an area of 1759540 km2
+The country of Liechtenstein has capital in Vaduz with a population of 37623 on an area of 160 km2
+The country of Lithuania has capital in Vilnius with a population of 2872294 on an area of 65300 km2
+The country of Luxembourg has capital in Luxembourg with a population of 576200 on an area of 2586 km2
+The country of Macedonia (the former Yugoslav Republic of) has capital in Skopje with a population of 2058539 on an area of 25713 km2
+The country of Madagascar has capital in Antananarivo with a population of 22434363 on an area of 587041 km2
+The country of Malawi has capital in Lilongwe with a population of 16832910 on an area of 118484 km2
+The country of Malaysia has capital in Kuala Lumpur with a population of 31405416 on an area of 330803 km2
+The country of Maldives has capital in Malé with a population of 344023 on an area of 300 km2
+The country of Mali has capital in Bamako with a population of 18135000 on an area of 1240192 km2
+The country of Malta has capital in Valletta with a population of 425384 on an area of 316 km2
+The country of Marshall Islands has capital in Majuro with a population of 54880 on an area of 181 km2
+The country of Mauritania has capital in Nouakchott with a population of 3718678 on an area of 1030700 km2
+The country of Mauritius has capital in Port Louis with a population of 1262879 on an area of 2040 km2
+The country of Mexico has capital in Mexico City with a population of 122273473 on an area of 1964375 km2
+The country of Micronesia (Federated States of) has capital in Palikir with a population of 102800 on an area of 702 km2
+The country of Moldova (Republic of) has capital in Chișinău with a population of 3553100 on an area of 33846 km2
+The country of Monaco has capital in Monaco with a population of 38400 on an area of 2 km2
+The country of Mongolia has capital in Ulan Bator with a population of 3093100 on an area of 1564110 km2
+The country of Montenegro has capital in Podgorica with a population of 621810 on an area of 13812 km2
+The country of Montserrat has capital in Plymouth with a population of 4922 on an area of 102 km2
+The country of Morocco has capital in Rabat with a population of 33337529 on an area of 446550 km2
+The country of Mozambique has capital in Maputo with a population of 26423700 on an area of 801590 km2
+The country of Myanmar has capital in Naypyidaw with a population of 51419420 on an area of 676578 km2
+The country of Namibia has capital in Windhoek with a population of 2324388 on an area of 825615 km2
+The country of Nauru has capital in Yaren with a population of 10084 on an area of 21 km2
+The country of Nepal has capital in Kathmandu with a population of 28431500 on an area of 147181 km2
+The country of Netherlands has capital in Amsterdam with a population of 17019800 on an area of 41850 km2
+The country of New Caledonia has capital in Nouméa with a population of 268767 on an area of 18575 km2
+The country of New Zealand has capital in Wellington with a population of 4697854 on an area of 270467 km2
+The country of Nicaragua has capital in Managua with a population of 6262703 on an area of 130373 km2
+The country of Niger has capital in Niamey with a population of 20715000 on an area of 1267000 km2
+The country of Nigeria has capital in Abuja with a population of 186988000 on an area of 923768 km2
+The country of Niue has capital in Alofi with a population of 1470 on an area of 260 km2
+The country of Norfolk Island has capital in Kingston with a population of 2302 on an area of 36 km2
+The country of Korea (Democratic People's Republic of) has capital in Pyongyang with a population of 25281000 on an area of 120538 km2
+The country of Northern Mariana Islands has capital in Saipan with a population of 56940 on an area of 464 km2
+The country of Norway has capital in O

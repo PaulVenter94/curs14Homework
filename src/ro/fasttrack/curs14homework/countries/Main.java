@@ -1,9 +1,10 @@
 package ro.fasttrack.curs14homework.countries;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
         FileReader reader = new FileReader();
         CountryStatistics countryStatistics = new CountryStatistics(reader.countryReader("countries.txt"));
         System.out.println(countryStatistics.getCountries());
@@ -18,5 +19,9 @@ public class Main {
         System.out.println(countryStatistics.getCountriesWithStartingLetters("tuva"));
         countryStatistics.makeAdvanced("Zimbabwe","Interphased fission");
         countryStatistics.printWithTech();
+        FormatCountry longFormat=new LongFormat();
+        longFormat.formatCountry(reader.countryReader("countries.txt"));
+        CasualFormat casualFormat=new CasualFormat();
+        casualFormat.formatCountry(reader.countryReader("countries.txt"));
         }
 }
