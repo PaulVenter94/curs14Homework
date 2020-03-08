@@ -5,14 +5,24 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
-public class CasualFormat implements FormatCountry {
+public class CasualFormat extends LongFormat {
 
     @Override
-    public void formatCountry(List<Country> result) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter("CasualFormat.txt"));
-        for (Country country : result) {
-            writer.write(String.format("%s has population of %d on area %d and has capital %s\n"
-                    , country.getName(), country.getPopulation(),  country.getArea(),country.getCapital()));
+    protected void formatText(List<Country> list) {
+        BufferedWriter writer = null;
+        try {
+            writer = new BufferedWriter(new FileWriter("CasualFormat.txt"));
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
+        try {
+            for (Country country : list) {
+                writer.write(String.format("%s has population of %d on area %d and has capital %s\n"
+                        , country.getName(), country.getPopulation(), country.getArea(), country.getCapital()));
+            }
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
         }
     }
 }
+
