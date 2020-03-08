@@ -2,15 +2,15 @@ package ro.fasttrack.curs14homework.countries;
 
 import java.util.Objects;
 
-public class AdvancedCountries extends Country {
+public class AdvancedCountry extends Country {
     private String tech;
 
-    public AdvancedCountries(String name, String capital, long population, long area, String tech) {
+    public AdvancedCountry(String name, String capital, long population, long area, String tech) {
         super(name, capital, population, area);
         this.tech = tech;
     }
 
-    public AdvancedCountries(Country country) {
+    public AdvancedCountry(Country country) {
         super(country.getName(), country.getCapital(), country.getPopulation(), country.getArea());
     }
 
@@ -21,9 +21,9 @@ public class AdvancedCountries extends Country {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof AdvancedCountries)) return false;
+        if (!(o instanceof AdvancedCountry)) return false;
         if (!super.equals(o)) return false;
-        AdvancedCountries that = (AdvancedCountries) o;
+        AdvancedCountry that = (AdvancedCountry) o;
         return Objects.equals(getTech(), that.getTech());
     }
 

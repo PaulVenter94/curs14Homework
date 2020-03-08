@@ -9,6 +9,7 @@ public class Country {
     private final long area;
     private final Density density;
 
+
     public Country(String name, String capital, long population, long area) {
         this.name = name;
         this.capital = capital;
@@ -36,6 +37,7 @@ public class Country {
     public Density getDensity() {
         return density;
     }
+
 
     @Override
     public boolean equals(Object o) {

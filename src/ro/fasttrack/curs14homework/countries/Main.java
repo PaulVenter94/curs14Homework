@@ -13,15 +13,18 @@ public class Main {
         System.out.println(countryStatistics.getHighestPop());
         System.out.println(countryStatistics.getHighestDensity());
         System.out.println(countryStatistics.getCountriesForDensity(Density.HIGH));
-        countryStatistics.makeAdvanced("tuvalu","Human Mutation");
-        countryStatistics.makeAdvanced("Afghanistan","Galactic networking");
+        countryStatistics.makeAdvanced("tuvalu", "Human Mutation");
+        countryStatistics.makeAdvanced("Afghanistan", "Galactic networking");
         System.out.println(countryStatistics.getCountriesWithStartingLetters("AFGH"));
         System.out.println(countryStatistics.getCountriesWithStartingLetters("tuva"));
-        countryStatistics.makeAdvanced("Zimbabwe","Interphased fission");
-        countryStatistics.printWithTech();
-        FormatCountry longFormat=new LongFormat();
+        countryStatistics.makeAdvanced("Zimbabwe", "Interphased fission");
+        FormatCountry longFormat = new LongFormat();
         longFormat.formatCountry(reader.countryReader("countries.txt"));
-        CasualFormat casualFormat=new CasualFormat();
+        CasualFormat casualFormat = new CasualFormat();
         casualFormat.formatCountry(reader.countryReader("countries.txt"));
-        }
+        System.out.println(countryStatistics.getCountryCapital("narnia"));
+        System.out.println(countryStatistics.getPopulation("wakanda"));
+        System.out.println(countryStatistics.getArea("Mordor"));
+        countryStatistics.printWithTechV2();
+    }
 }

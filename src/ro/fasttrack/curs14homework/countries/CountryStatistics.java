@@ -1,13 +1,11 @@
 package ro.fasttrack.curs14homework.countries;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 
 public class CountryStatistics {
     private final List<Country> countries;
-    private List<AdvancedCountries> advCountries = new ArrayList<>();
+    private List<AdvancedCountry> advCountries = new ArrayList<>();
 
     CountryStatistics(List<Country> countries) {
         this.countries = new ArrayList<>(countries);
@@ -27,19 +25,19 @@ public class CountryStatistics {
         return result;
     }
 
-    public String getCountryCapital(String country) {
-        Country country1 = findCountry(country);
-        return country1.getCapital();
+    public String getCountryCapital(String countryName) {
+        Country country = findCountry(countryName);
+        return country != null ? country.getCapital() : "Country does not exist!";
     }
 
     public long getPopulation(String countryName) {
         Country country = findCountry(countryName);
-        return country.getPopulation();
+        return country != null ? country.getPopulation() : 0L;
     }
 
     public long getArea(String countryName) {
         Country country = findCountry(countryName);
-        return country.getArea();
+        return country != null ? country.getArea() : 0L;
     }
 
     public Country getLargestCountry() {
@@ -92,33 +90,44 @@ public class CountryStatistics {
         for (int i = 0; i < countries.size(); i++) {
             if (countries.get(i).getName().equalsIgnoreCase(countryName)) {
                 Country country = countries.get(i);
-                country = new AdvancedCountries(country.getName(), country.getCapital(), country.getPopulation(), country.getArea(), tech);
+                country = new AdvancedCountry(country.getName(), country.getCapital(), country.getPopulation(), country.getArea(), tech);
                 countries.set(i, country);
-                advCountries.add(new AdvancedCountries(country.getName(), country.getCapital(), country.getPopulation(), country.getArea(), tech));
+                advCountries.add(new AdvancedCountry(country.getName(), country.getCapital(), country.getPopulation(), country.getArea(), tech));
             }
         }
     }
 
     public void printWithTech() {
-        boolean b = false;
+        boolean checkIfPrinted;
         for (Country country : countries) {
-            b = false;
-            for (AdvancedCountries advancedCountries : advCountries) {
-                if (country.getName().equals(advancedCountries.getName())) {
-                    System.out.println(country.getName() + "-" + advancedCountries.getTech());
-                    b = true;
+            checkIfPrinted = false;
+            for (AdvancedCountry advancedCountry : advCountries) {
+                if (country.getName().equals(advancedCountry.getName())) {
+                    System.out.println(country.getName() + "-" + advancedCountry.getTech());
+                    checkIfPrinted = true;
                 }
             }
-            if (!b) {
+            if (!checkIfPrinted) {
                 System.out.println(country.getName() + "-none");
             }
         }
     }
 
-    private Country findCountry(String country) {
-        for (Country country1 : countries) {
-            if (country1.getName().equalsIgnoreCase(country)) {
-                return country1;
+    public void printWithTechV2() {
+        for (Country country : countries) {
+            if (country instanceof  AdvancedCountry){
+                AdvancedCountry advancedCountry=(AdvancedCountry) country;
+                System.out.println(country.getName() + "-" + advancedCountry.getTech());
+            }else {
+                System.out.println(country.getName() + "-none");
+            }
+        }
+    }
+
+    private Country findCountry(String countryName) {
+        for (Country country : countries) {
+            if (country.getName().equalsIgnoreCase(countryName)) {
+                return country;
             }
         }
         return null;
