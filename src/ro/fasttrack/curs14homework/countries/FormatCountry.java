@@ -4,5 +4,5 @@ import java.io.IOException;
 import java.util.List;
 
 public interface FormatCountry {
-    void formatCountry(List<Country> result) throws IOException;
+    void print(List<Country> result);
 }

@@ -5,10 +5,13 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
-public class CasualFormat extends LongFormat {
+public class CasualFormat implements FormatCountry {
 
-    @Override
-    protected void formatText(List<Country> list) {
+    public void print(List<Country> list){
+        formatText(list);
+    }
+
+    private void formatText(List<Country> list) {
         BufferedWriter writer = null;
         try {
             writer = new BufferedWriter(new FileWriter("CasualFormat.txt"));

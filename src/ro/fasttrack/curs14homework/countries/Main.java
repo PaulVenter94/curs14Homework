@@ -19,12 +19,13 @@ public class Main {
         System.out.println(countryStatistics.getCountriesWithStartingLetters("tuva"));
         countryStatistics.makeAdvanced("Zimbabwe", "Interphased fission");
         FormatCountry longFormat = new LongFormat();
-        longFormat.formatCountry(reader.countryReader("countries.txt"));
         CasualFormat casualFormat = new CasualFormat();
-        casualFormat.formatCountry(reader.countryReader("countries.txt"));
+        casualFormat.print(reader.countryReader("countries.txt"));
         System.out.println(countryStatistics.getCountryCapital("narnia"));
         System.out.println(countryStatistics.getPopulation("wakanda"));
         System.out.println(countryStatistics.getArea("Mordor"));
         countryStatistics.printWithTechV2();
+        longFormat.print(reader.countryReader("countries.txt"));
+        System.out.println(countryStatistics.getCountryCapital("fjgf"));
     }
 }

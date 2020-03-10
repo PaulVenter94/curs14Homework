@@ -27,7 +27,7 @@ public class CountryStatistics {
 
     public String getCountryCapital(String countryName) {
         Country country = findCountry(countryName);
-        return country != null ? country.getCapital() : "Country does not exist!";
+        return country!=null? country.getCapital():null;
     }
 
     public long getPopulation(String countryName) {
@@ -41,36 +41,30 @@ public class CountryStatistics {
     }
 
     public Country getLargestCountry() {
-        long max = 0;
-        Country result = null;
+        Country result = countries.get(0);
         for (Country country : countries) {
-            if (country.getArea() > max) {
+            if (country.getArea() > result.getArea()) {
                 result = country;
-                max = country.getArea();
             }
         }
         return result;
     }
 
     public Country getHighestPop() {
-        long max = 0;
-        Country result = null;
+        Country result = countries.get(0);
         for (Country country : countries) {
-            if (country.getPopulation() > max) {
+            if (country.getPopulation() > result.getPopulation()) {
                 result = country;
-                max = country.getPopulation();
             }
         }
         return result;
     }
 
     public Country getHighestDensity() {
-        long max = 0;
-        Country result = null;
+        Country result = countries.get(0);
         for (Country country : countries) {
-            if (country.getPopulation() / country.getArea() > max) {
+            if (country.getPopulation() / country.getArea() > (result.getPopulation()/result.getArea())) {
                 result = country;
-                max = country.getPopulation() / country.getArea();
             }
         }
         return result;
@@ -115,10 +109,10 @@ public class CountryStatistics {
 
     public void printWithTechV2() {
         for (Country country : countries) {
-            if (country instanceof  AdvancedCountry){
-                AdvancedCountry advancedCountry=(AdvancedCountry) country;
+            if (country instanceof AdvancedCountry) {
+                AdvancedCountry advancedCountry = (AdvancedCountry) country;
                 System.out.println(country.getName() + "-" + advancedCountry.getTech());
-            }else {
+            } else {
                 System.out.println(country.getName() + "-none");
             }
         }
